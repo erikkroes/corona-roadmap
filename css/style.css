@@ -11,7 +11,13 @@
     text-rendering: optimizeLegibility;
   }
   
-  main {
-    max-width: 70ch;
+  main {    
     padding: 1rem;
+    display: flex;
+    flex-wrap: wrap;
   }
+
+.blok_niv {
+    max-width: 70ch;
+    min-width: 50ch;
+}
