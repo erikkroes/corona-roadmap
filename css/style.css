@@ -13,14 +13,21 @@
   }
   
   main {
-    max-width: 70ch;
     padding: 1rem;
   }
 
   h1, h2 {
     color: #C80E5E;
   }
-  
+
+  h1, h2, p, td {
+    max-width: 70ch;
+  }
+
+  td {
+    padding: 0.8rem;
+  }
+
   td:first-child {
     font-weight: 700;
   }
