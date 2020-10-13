@@ -1,9 +1,10 @@
 * {
     box-sizing: border-box;
+    text-align: left;
    }
   
   body {
-    background-color: #eee;
+    background-color: #fff;
     color: #2d2d35;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 1.25rem;
@@ -14,4 +15,16 @@
   main {
     max-width: 70ch;
     padding: 1rem;
+  }
+
+  h1, h2 {
+    color: #C80E5E;
+  }
+  
+  td:first-child {
+    font-weight: 700;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
   }
