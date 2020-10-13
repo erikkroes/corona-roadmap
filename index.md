@@ -245,4 +245,36 @@ Positieve testen per 100.000 inwoners per week > 250
 - Naleving onvoldoende
 
 
-Opgezet door [Erik Kroes](https://twitter.com/erikKroes).
+## Algemene Uitzonderingen
+
+### Grondwettelijk
+- Betogingen, samenkomsten en vergaderingen als bedoeld in de Wet openbare manifestaties;
+- Personen die in gemeenschap met anderen godsdienst of levensovertuiging belijden;
+- De vergaderingen van de Staten-Generaal of van een commissie daaruit (in de desbetreffende veiligheidsregio), van degemeenteraad, provinciale staten en het algemeen bestuur van een waterschap, of van een door deze organen ingesteldecommissie, en andere wettelijk verplichte bijeenkomsten; 
+- Een bijeenkomst van een internationale organisatie, die gevestigd is op het grondgebied van het Koninkrijk, of van eenverdragspartij van een verdrag waarbij het Koninkrijk partij is
+- Uitoefenen verenigingsrecht
+- Verkiezingen in het kader van de Kieswet
+- Eigen woning en personen die op hetzelfde adres woonachtig zijn.
+- Recht op vrije beweging in verpleeghuizen (PM)  
+
+### Economisch
+- Samenkomsten in een gebouw die noodzakelijkzijn voor de continuering van de dagelijkse werkzaamheden van instellingen, bedrijven en andere organisaties met ten hoogste 100 personen per zelfstandige ruimte
+- Groepsvorming in het kader van beroep of bedrijf 
+- Hotels voor logies, afhaalfuncties horeca en airsideluchthavens
+
+### Maatschappelijk wenselijk
+- Personen bij een uitvaart
+- Personen bij een huwelijksvoltrekking
+- Personen die theater, dans, muziek in de vorm vanculturele uiting of als sport beoefenen (max 30).
+- Personen met een handicap
+- Sporters (volwassen en jeugd) met een A-status opaangewezen topsportlocaties en voetbal(Eredivisie en Eerste Divisie) incl. overig personeelin “bubbel”
+
+### Geen medische noodzaak
+- Kinderen tot en met 12 jaar
+
+### Sectorspecifiek
+- Zorg, onderwijs en kinderopvang
+- Openbaar vervoer en overigbedrijfsmatig personenvervoer (geenrondvaartboten e.d.)
+- Luchthavens
+
+Deze website staat op [GitHub](https://github.com/erikkroes/corona-roadmap). Reaktie zijn voor opzetter [Erik Kroes](https://twitter.com/erikKroes).
