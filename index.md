@@ -1,3 +1,7 @@
+---
+layout: layout.html
+---
+
 # Routekaart coronamaatregelen 
 - De 7 Basisregels blijven van kracht: 
     1. Houd 1,5 meter afstand van anderen; 
