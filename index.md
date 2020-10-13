@@ -132,3 +132,5 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
 - Draag een mondkapje in publieke binnenruimtes.
 
 Meer informatie: [rijksoverheid.nl/coronavirus](https://rijksoverheid.nl/coronavirus) of bel 0800-1351
+
+Deze website staat op [GitHub](https://github.com/erikkroes/corona-roadmap). Opgezet door [Erik Kroes](https://twitter.com/erikKroes). Hulp en reakties welkom!
