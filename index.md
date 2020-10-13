@@ -148,9 +148,12 @@ Positieve testen per 100.000 inwoners per week >150
 - Verbieden van bijeenkomsten in publieke plaatsen groter dan 30 (binnen) of 40 (buiten) personen
 - Verbieden van publiek bij wedstrijden, professionals en amateurs.
 - Reserveren tijdsslot in sectoren met bezoekersstromen (bijvoorbeeld pretparken, musea e.d.). Veiligheidsregio’s bepalen per locatie het maximum aantal toe te laten bezoekers.
+
 **Opening- en sluitingstijden**
 - Sluiting van alle eet- en drinkgelegenheden om 22.00 uur, laatste inloop om 21.00 uur
-- Sluiting van (sport)kantinesOverige maatregelen
+- Sluiting van (sport)kantines
+
+**Overige maatregelen**
 - Thuiswerken, tenzij het niet kan. Afspraken met werkgevers en vakbondenover striktere naleving van bestaande protocollen.
 - De DPG heeft contact met zorginstellingen in de langdurige zorg over extrate nemen maatregelen met name over:
     - het verder beperken bezoek (met uitzondering van palliatieve fase en jeugdhulpaanbieders);
@@ -168,10 +171,12 @@ Positieve testen per 100.000 inwoners per week >150
 - Sluiten van kleedkamers bij sportclubs en verenigingen
 - Reserveren tijdsslot in sectoren met bezoekersstromen (bijvoorbeeldpretparken, musea e.d.). Veiligheidsregio’s bepalen per locatie het maximum aantal toe te laten bezoekers.
 - Verbod op alle evenementen (met uitzondering van markten, drive-in bioscopen/theaters, beurzen, congressen en wedstrijden)
+
 **Opening- en sluitingstijden**
 - Sluiten van publieke ruimtes in (onderwijs)instellingen
 - Sluiting van alle eet- en drinkgelegenheden en coffeeshops. Sluiting geldt alleen voor delen van locatie met horecafunctie. 
 - Sluiting detailhandel inclusief avondwinkels om 20.00 uur, met uitzondering van de levensmiddelenbranche
+
 **Overige maatregelen**
 - Voor vakanties in het binnenland geldt dringend advies blijf zo veel mogelijk op je vakantieadres, reis zo min mogelijk, beperk het aantal uitstapjes en vermijd drukke momenten.
 - Voor reizen naar het buitenland, volg de reisadviezen van Buitenlandse Zaken. 
@@ -202,10 +207,12 @@ Positieve testen per 100.000 inwoners per week > 250
 - Verbod op alle evenementen (met uitzondering van markten, drive-in bioscopen/theaters, beurzen, congressen en wedstrijden
 - Beperken maximale groepsgrootte naar 4 personen 
 - Aantal personen per ruimte binnen: maximum 30 personen. 
+
 **Openings- en sluitingstijden**
 - Sluiten van publieke ruimtes in (onderwijs)instellingen
 - Sluiting van alle eet- en drinkgelegenheden en coffeeshops. Sluiting geldt alleen voor delen van locatie met horecafunctie.
 - Sluiting detailhandel om 20:00u en geen koopavonden. (met uitzondering van de levensmiddelenbranche)
+
 **Overige maatregelen**
 - Verbieden sportwedstrijden bij volwassen
 - Verbieden sportwedstrijden bij jeugd 
@@ -217,8 +224,10 @@ Positieve testen per 100.000 inwoners per week > 250
 **Samenkomen**
 - Dringend advies om geen (jongeren)groepsreizen te ondernemen
 - Beperken maximale groepsgrootte naar 2 personen
+
 **Openings- en sluitingstijden**
 - Sluiten van sectoren met veel bezoekersstromen (bijvoorbeeld pretparken, musea e.d.)
+
 **Overige maatregelen**
 - Een verbod op openstelling sanitaire voorzieningen bij recreatieparken en andere recreatieve locaties
 - Voor iedereen incl. jeugd, geldt de anderhalve meter afstand bij sporten (uitzonderingspositie jeugd wordt opgeheven).
