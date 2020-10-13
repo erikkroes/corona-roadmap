@@ -2,8 +2,6 @@
 layout: layout.html
 ---
 
-<div class="blok_niv">
-
 # Routekaart coronamaatregelen 
 - De 7 Basisregels blijven van kracht: 
     1. Houd 1,5 meter afstand van anderen; 
@@ -15,9 +13,7 @@ layout: layout.html
     7. Mondkapjes zijn verplicht in het OV. 
 - Dit zijn maatregelen die nu geïnventariseerd zijn. Er wordt steeds gekeken of er passende maatregelen zijn die aangevuld kunnen worden of maatregelen aangescherpt kunnen worden.
 - Bij het treffen van de maatregelen verder aan de rechterkant van het schema zal ook de behoefte toenemen tot sociaal, economische en maatschappelijk flankerend beleid. 
-</div>
 
-<div class="blok_niv">
 
 ## Vanaf risiconiveau 1: Waakzaam
 
@@ -68,9 +64,7 @@ Positieve testen per 100.000 inwoners per week < 50
 - R-waarde: minder dan 1,0
 - Percentage verpleeghuislocaties met minimaal 1 besmette bewoner 
 - Naleving voldoende en handhaafbaar
-</div>
 
-<div class="blok_niv">
 
 ## Vanaf risiconiveau 2: Zorgelijk
 
@@ -138,9 +132,7 @@ Positieve testen per 100.000 inwoners per week: 50 – 150
 - R-waarde: Circa 1,0
 - Percentage verpleeghuislocaties met minimaal 1 besmette bewoner 
 - Naleving onvoldoende
-</div>
 
-<div class="blok_niv">
 
 ## Vanaf risiconiveau 3: Ernstig
 
@@ -196,9 +188,7 @@ Positieve testen per 100.000 inwoners per week >150
 - R-waarde: Meer dan 1,0
 - Percentage verpleeghuislocaties met minimaal 1 besmette bewoner
 - Naleving onvoldoende
-</div>
 
-<div class="blok_niv">
 
 ## Vanaf risiconiveau 4: Zeer Ernstig
 
@@ -253,9 +243,7 @@ Positieve testen per 100.000 inwoners per week > 250
 - R-waarde: meer dan 1,0
 - Percentage verpleeghuislocaties met  minimaal 1 besmette bewoner.
 - Naleving onvoldoende
-</div>
 
-<div class="blok_niv">
 
 ## Algemene Uitzonderingen
 
@@ -288,6 +276,6 @@ Positieve testen per 100.000 inwoners per week > 250
 - Zorg, onderwijs en kinderopvang
 - Openbaar vervoer en overig bedrijfsmatig personenvervoer (geenrondvaartboten e.d.)
 - Luchthavens
-</div>
+
 
 Deze website staat op [GitHub](https://github.com/erikkroes/corona-roadmap).Opgezet door [Erik Kroes](https://twitter.com/erikKroes). Hulp en reakties welkom!
