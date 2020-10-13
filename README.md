@@ -8,3 +8,9 @@ Alle tekst bevindt zich in `index.md`.
 De layout wordt bepaald door `_includes\layout.html` en `css\style.css'`
 
 De pagina is lokaal te installeren met [Eleventy](https://www.11ty.dev/)
+
+```
+npm install
+npm install -g @11ty/eleventy
+eleventy --serve
+```
