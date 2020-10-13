@@ -278,4 +278,4 @@ Positieve testen per 100.000 inwoners per week > 250
 - Luchthavens
 
 
-Deze website staat op [GitHub](https://github.com/erikkroes/corona-roadmap).Opgezet door [Erik Kroes](https://twitter.com/erikKroes). Hulp en reakties welkom!
+Deze website staat op [GitHub](https://github.com/erikkroes/corona-roadmap). Opgezet door [Erik Kroes](https://twitter.com/erikKroes). Hulp en reakties welkom!
