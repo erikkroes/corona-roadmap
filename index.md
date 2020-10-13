@@ -91,7 +91,8 @@ Positieve testen per 100.000 inwoners per week: 50 – 150
 **Overige maatregelen**
 - Dringend advies om het aantal reisbewegingen te beperken
 - De DPG heeft contact met zorginstellingen in de langdurige zorg over tenemen maatregelen met name over:
-- de inzet van (preventief ) persoonlijke beschermingsmiddelen voorzorgmedewerkers en bezoekers bij verpleeghuizen en locaties waar hetrisico vergelijkbaar is;-het verkleinen of scheiden van dagbestedingsgroepen tussen bewonersvan een instelling en andere deelnemers;
+- de inzet van (preventief ) persoonlijke beschermingsmiddelen voorzorgmedewerkers en bezoekers bij verpleeghuizen en locaties waar hetrisico vergelijkbaar is;
+    - het verkleinen of scheiden van dagbestedingsgroepen tussen bewonersvan een instelling en andere deelnemers;
 - het beperken van bezoek (m.u.v. palliatieve fase en jeugdhulpaanbieders).
 - Preventief gebruik van persoonlijke beschermingsmiddelen doorzorgmedewerkers bij zorg en ondersteuning thuis.
 - Gerichte doelgroepencommunicatie.
@@ -118,7 +119,9 @@ Positieve testen per 100.000 inwoners per week: 50 – 150
 - Registratieplicht, triage en reservering voor contactberoepen. 
 - Werkgevers aanspreken op hun verantwoordelijkheid om basisregels te implementeren (continueren).
 - Noodopvang voor kinderen in zeer kwetsbare situaties organiseren
-- Extra aandacht voor het organiseren van: -invulling van werk, opleiding of dagbesteding thuis -inlooplocaties voor dak- en thuislozen.
+- Extra aandacht voor het organiseren van: 
+    - invulling van werk, opleiding of dagbesteding thuis 
+    - inlooplocaties voor dak- en thuislozen.
 - Intensivering aanbod digitale mogelijkheden voor begeleidings- of behandelcontact, op basis van goed overleg tussen cliënt en hulpverlener.
 
 ### Contextindicatoren bij inschaling Zorgelijk
@@ -134,7 +137,61 @@ Positieve testen per 100.000 inwoners per week: 50 – 150
 
 ## Vanaf risiconiveau 3: Ernstig
 
+### Signaalwaarden
 
+**Voor inschaling ERNSTIG**
+Positieve testen per 100.000 inwoners per week >150
+
+*Hard ingrijpen is noodzakelijk om verdere escalatie te voorkomen en terug te keren naar een beheersbare situatie (waakzaam). Het aantal nieuwe besmettingen neemtsnel toe. Het bron- en contactonderzoek is niet meer effectief, waardoor het zicht opde verspreiding afneemt. Maatregelen worden onvoldoende nageleefd. De regionalezorgcapaciteit is onvoldoende. Maatregelen zijn erop gericht om (regionale)overbelasting van de zorg te voorkomen, kwetsbaren te beschermen en weer zicht opde verspreiding van het virus te krijgen.*
+
+### Maatregelen: in ieder geval
+
+**Samenkomen**
+- Dringend advies om thuisbezoek te beperken tot 3 personen (excl.kinderen tot 13 jaar)
+- Verbieden van bijeenkomsten in publieke plaatsen groter dan 30 (binnen)of 40 (buiten) personen
+- Verbieden van publiek bij wedstrijden, professionals en amateurs.
+- Reserveren tijdsslot in sectoren met bezoekersstromen (bijvoorbeeldpretparken, musea e.d.). Veiligheidsregio’s bepalen per locatie hetmaximum aantal toe te laten bezoekers.
+**Opening- en sluitingstijden**
+- Sluiting van alle eet- en drinkgelegenheden om 22.00 uur, laatste inloopom 21.00 uur
+- Sluiting van (sport)kantinesOverige maatregelen
+- Thuiswerken, tenzij het niet kan. Afspraken met werkgevers en vakbondenover striktere naleving van bestaande protocollen.
+- De DPG heeft contact met zorginstellingen in de langdurige zorg over extrate nemen maatregelen met name over:
+    - het verder beperken bezoek (m.u.v. palliatieve fase enjeugdhulpaanbieders);
+    - het verder verkleinen of scheiden van de dagbesteding tussen bewoners van een instelling en andere deelnemers.
+- Intensievere doelgroepencommunicatie
+- Voor vakanties in het binnenland geldt dringend advies blijf zo veelmogelijk op je vakantieadres, reis zo min mogelijk, beperk het aantaluitstapjes en vermijd drukke momenten.
+- Voor reizen naar het buitenland, volg de reisadviezen van BuitenlandseZaken.
+- Registratieplicht, triage en reservering voor contactberoepen. 
+
+### Maatregelen: te overwegen
+
+**Samenkomen**
+- Dringend advies om thuisbezoek te beperken tot 3 personen (excl.kinderen tot 13 jaar); max. 1 groep per dag.
+- Beperken maximale groepsgrootte naar 4 personen 
+- Dringend advies om geen (jongeren)groepsreizen te ondernemen, 
+- Sluiten van kleedkamers bij sportclubs en verenigingen
+- Reserveren tijdsslot in sectoren met bezoekersstromen (bijvoorbeeldpretparken, musea e.d.). Veiligheidsregio’s bepalen per locatie hetmaximum aantal toe te laten bezoekers.
+- Verbod op alle evenementen (m.u.v. markten, drive-in bioscopen/theaters, beurzen, congressen en wedstrijden)
+**Opening- en sluitingstijden**
+- Sluiten van publieke ruimtes in (onderwijs)instellingen
+- Sluiting van alle eet- en drinkgelegenheden en coffeeshops. Sluiting geldtalleen voor delen van locatie met horecafunctie. 
+- Sluiting detailhandel inclusief avondwinkels om 20.00 uur, muvlevensmiddelenbranche
+**Overige maatregelen**
+- Voor vakanties in het binnenland geldt dringend advies blijf zo veelmogelijk op je vakantieadres, reis zo min mogelijk, beperk het aantaluitstapjes en vermijd drukke momenten.
+- Voor reizen naar het buitenland, volg de reisadviezen van BuitenlandseZaken. 
+- Verbod om na 20:00u in de openbare ruimte alcoholische dranken voorhanden te hebben of te nuttigen
+- Verbod om na 20:00u alcoholische dranken te verkopen 
+- Voor volwassenen geldt: alleen sportbeoefening op 1,5m afstand enindividueel of in groepsverband met niet meer dan 4 personen.Uitzondering: kinderen tot 18 jaar.
+- Verbieden sportwedstrijden bij volwassen
+- Verbieden sportwedstrijden bij jeugd
+
+### Contextindicatoren bij inschaling Ernstig
+- Percentage positieve testen per week: meer dan 10%
+- Aantal IC-opnamen: 10 - 20
+- Aantal ziekenhuisopnamen: 40 - 80
+- R-waarde: Meer dan 1,0
+- Percentage verpleeghuislocaties met minimaal 1 besmette bewoner
+- Naleving onvoldoende
 
 
 Opgezet door [Erik Kroes](https://twitter.com/erikKroes).
