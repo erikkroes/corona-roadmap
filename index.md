@@ -138,14 +138,12 @@ Positieve testen per 100.000 inwoners per week: 50 – 150
 ## Vanaf risiconiveau 3: Ernstig
 
 ### Signaalwaarden
-
 **Voor inschaling ERNSTIG**
 Positieve testen per 100.000 inwoners per week >150
 
 *Hard ingrijpen is noodzakelijk om verdere escalatie te voorkomen en terug te keren naar een beheersbare situatie (waakzaam). Het aantal nieuwe besmettingen neemtsnel toe. Het bron- en contactonderzoek is niet meer effectief, waardoor het zicht opde verspreiding afneemt. Maatregelen worden onvoldoende nageleefd. De regionalezorgcapaciteit is onvoldoende. Maatregelen zijn erop gericht om (regionale)overbelasting van de zorg te voorkomen, kwetsbaren te beschermen en weer zicht opde verspreiding van het virus te krijgen.*
 
 ### Maatregelen: in ieder geval
-
 **Samenkomen**
 - Dringend advies om thuisbezoek te beperken tot 3 personen (excl.kinderen tot 13 jaar)
 - Verbieden van bijeenkomsten in publieke plaatsen groter dan 30 (binnen)of 40 (buiten) personen
@@ -164,7 +162,6 @@ Positieve testen per 100.000 inwoners per week >150
 - Registratieplicht, triage en reservering voor contactberoepen. 
 
 ### Maatregelen: te overwegen
-
 **Samenkomen**
 - Dringend advies om thuisbezoek te beperken tot 3 personen (excl.kinderen tot 13 jaar); max. 1 groep per dag.
 - Beperken maximale groepsgrootte naar 4 personen 
@@ -191,6 +188,60 @@ Positieve testen per 100.000 inwoners per week >150
 - Aantal ziekenhuisopnamen: 40 - 80
 - R-waarde: Meer dan 1,0
 - Percentage verpleeghuislocaties met minimaal 1 besmette bewoner
+- Naleving onvoldoende
+
+## Vanaf risiconiveau 4: Zeer Ernstig
+
+### Signaalwaarden
+**Voor inschaling ZEER ERNSTIG**
+Positieve testen per 100.000 inwoners per week > 250
+
+### Maatregelen: in ieder geval
+**Samenkomen**
+- Dringend advies om thuisbezoek te beperken tot 3 personen (excl.kinderen tot 13 jaar); max. 1 groep per dag.
+- Verbod op alle evenementen (m.u.v. markten, drive-in bioscopen/theaters, beurzen, congressen en wedstrijden
+- Beperken maximale groepsgrootte naar 4 personen 
+- Aantal personen per ruimte binnen: maximum 30 personen. 
+**Openings- en sluitingstijden**
+- Sluiten van publieke ruimtes in (onderwijs)instellingen
+- Sluiting van alle eet- en drinkgelegenheden en coffeeshops. Sluiting geldtalleen voor delen van locatie met horecafunctie.
+- Sluiting detailhandel om 20:00u en geen koopavonden. (m.u.v.levensmiddelenbranche)
+**Overige maatregelen**
+- Verbieden sportwedstrijden bij volwassen
+- Verbieden sportwedstrijden bij jeugd 
+- Voor volwassenen geldt: alleen sportbeoefening op 1,5m afstand enindividueel of in groepsverband met niet meer dan 4 personen.Uitzondering: kinderen tot 18 jaar.
+- Verbod om na 20:00u in de openbare ruimte alcoholische dranken voorhanden te hebben of te nuttigen
+- Verbod om na 20:00u alcoholische dranken te verkopen 
+
+### Maatregelen: te overwegen
+**Samenkomen**
+- Dringend advies om geen (jongeren)groepsreizen te ondernemen
+- Beperken maximale groepsgrootte naar 2 personen
+**Openings- en sluitingstijden**
+- Sluiten van sectoren met veel bezoekersstromen (bijvoorbeeld pretparken,musea e.d.)
+**Overige maatregelen**
+- Een verbod op openstelling sanitaire voorzieningen bij recreatieparken enandere recreatieve locaties
+- Voor iedereen incl. jeugd, geldt de anderhalve meter afstand bij sporten(uitzonderingspositie jeugd wordt opgeheven).
+- Sluiten binnensport- en fitnessclubs, zwembaden, sauna’s, seksclubs.
+- De DPG heeft contact met zorginstellingen in de langdurige zorg over extrate nemen maatregelen met name over alternatieven voor dagbestedingvoor thuiswonenden (m.u.v. kinderen t/m 12 jaar).
+- Alleen fysiek onderwijs in het po en vo. Online onderwijs in het mbo enhoger onderwijs, m.u.v. begeleiding kwetsbare studenten,praktijkonderwijs, thuisonderwijs, toetsing en examens.
+
+**LOCKDOWN (te overwegen):**
+- Alleen nog online onderwijs voor mbo en hoger onderwijs.
+- Herijking afspraken over bovenbouw VO.
+- Verbod op alle sportactiviteiten binnen en bij sportactiviteiten buitenmaximale groepsgrootte van 2 personen en met 1,5m afstand.
+- Sluiten van kleedkamers bij sportclubs en verenigingen
+- Dringend advies om zoveel mogelijk thuis te blijven en geen bezoek af teleggen of te ontvangen
+- Sluiten alle locaties met veel bezoekersstromen, inclusiefrecreatieterreinen (uitgezonderd vakantieparken), musea, pretparken e.d.
+- Dringend advies om niet-noodzakelijke reizen binnen- en buitenland tevermijden. 
+- Alle bijeenkomsten, samenkomsten zijn verboden.
+- De DPG heeft contact met zorginstellingen in de langdurige zorg over extrate nemen maatregelen met name over alternatieven voor dagbestedingvoor thuiswonenden (m.u.v. kinderen t/m 12 jaar)
+
+### Contextindicatoren bij inschaling Zeer Ernstig
+- Aantal IC-opnamen: 20 of meer
+- Aantal ziekenhuisopnamen: 80 of meer
+- R-waarde: meer dan 1,0
+- Percentage verpleeghuislocaties met  minimaal 1 besmette bewoner.
 - Naleving onvoldoende
 
 
