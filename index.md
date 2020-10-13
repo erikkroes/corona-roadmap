@@ -28,12 +28,12 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
     </thead>
     <tbody>
         <tr>
-            <td>Er op uit</td>
+            <th>Er op uit</th>
             <td colspan="2">Geen beperkingen</td>
             <td colspan="3">Maximaal 4</td>
         </tr>
         <tr>
-            <td>Thuisbezoek familie en vrienen</td>
+            <th>Thuisbezoek familie en vrienden</th>
             <td>Geen beperkingen</td>
             <td>Maximaal 6 van een ander huishouden</td>
             <td>Maximaal 3 van een ander huishouden</td>
@@ -41,7 +41,7 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Blijf thuis</td>
         </tr>
         <tr>
-            <td>Bijeenkomsten</td>
+            <th>Bijeenkomsten</th>
             <td>Geen beperkingen</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 60 binnen Maximaal 80 buiten</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 30 binnen Maximaal 40 buiten</td>
@@ -49,7 +49,7 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Geen bijeenkomsten</td>
         </tr>
         <tr>
-            <td>Evenementen</td>
+            <th>Evenementen</th>
             <td>Reservering verplicht</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 60 binnen Maximaal 80 buiten</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 30 binnen Maximaal 40 buiten</td>
@@ -57,7 +57,7 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Geen evenementen</td>
         </tr>
         <tr>
-            <td>Huwelijken</td>
+            <th>Huwelijken</th>
             <td>Geen beperkingen</td>
             <td>Maximaal 50</td>
             <td>Maximaal 30</td>
@@ -65,11 +65,11 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Maximaal 4</td>
         </tr>
         <tr>
-            <td>Verpleeghuizen</td>
+            <th>Verpleeghuizen</th>
             <td colspan="5">Maatregelen afhankelijk van de situatie op de locatie. Bijvoorbeeld reservering van bezoek, een gezondheidscheck en gebruik van neus- en mondmaskers en het beperken van bezoek.</td>
         </tr>
         <tr>
-            <td>Horeca</td>
+            <th>Horeca</th>
             <td>Reservering, vaste zitplaats en check- gesprek verplicht</td>
             <td>Horeca open tot 01:00 Laatste inloop 00:00</td>
             <td>Horeca open tot 22:00 Laatste inloop 21:00</td>
@@ -77,7 +77,7 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Horeca gesloten</td>
         </tr>
         <tr>
-            <td>Sport</td>
+            <th>Sport</th>
             <td>Geen beperkingen</td>
             <td>Geen beperkingen</td>
             <td>Geen publiek bij (amateur)-wedstrijden</td>
@@ -85,26 +85,26 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Verbod op sport- activiteiten binnen</td>
         </tr>
         <tr>
-            <td>Binnenlandse reizen</td>
+            <th>Binnenlandse reizen</th>
             <td>Geen beperkingen</td>
             <td colspan="3">Beperk reisbewegingen</td>
             <td>Niet noodzakelijke reizen in binnen- en buitenland vermijden</td>
         </tr>
         <tr>
-            <td>OV</td>
+            <th>OV</th>
             <td colspan="5">Mondkapje verplicht</td>
         </tr>
         <tr>
-            <td>Uitvaart</td>
+            <th>Uitvaart</th>
             <td colspan="5">Maximaal 100 binnen en 250 buiten</td>
         </tr>
         <tr>
-            <td>Onderwijs</td>
+            <th>Onderwijs</th>
             <td colspan="4">Basisscholen en voortgezet onderwijs blijven open. Fysiek onderwijs in mbo, hbo en wo waar basisregels gevolgd kunnen worden.</td>
             <td>Mbo, hbo en wo alleen via online onderwijs</td>
         </tr>
         <tr>
-            <td>Werk</td>
+            <th>Werk</th>
             <td colspan="5">Werk thuis, tenzij het niet anders kan</td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td colspan="3">Geen koopavonden behalve voor verkoop levensmiddelen. Winkeltijden voor ouderen</td>
         </tr>
         <tr>
-            <td>Alcohol en softdrugs</td>
+            <th>Alcohol en softdrugs</th>
             <td colspan="3">Geen beperkingen</td>
             <td colspan="2">Na 20:00 uur: Verbod op verkoop alcohol en softdrugs. Verbod op bezit / nuttigen alcohol en softdrugs in openbare ruimte</td>
         </tr>
