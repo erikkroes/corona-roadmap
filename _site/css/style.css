@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+   }
+  
+  body {
+    background-color: #eee;
+    color: #2d2d35;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+  }
+  
+  main {
+    max-width: 70ch;
+    padding: 1rem;
+  }
