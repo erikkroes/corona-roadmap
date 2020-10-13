@@ -132,4 +132,9 @@ Positieve testen per 100.000 inwoners per week: 50 – 150
 - Percentage verpleeghuislocaties met minimaal 1 besmette bewoner 
 - Naleving onvoldoende
 
+## Vanaf risiconiveau 3: Ernstig
+
+
+
+
 Opgezet door [Erik Kroes](https://twitter.com/erikKroes).
