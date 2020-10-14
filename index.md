@@ -19,11 +19,11 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
     <thead>
         <tr>
             <th></th>
-            <th scope="col">waakzaam</th>
-            <th scope="col">zorgelijk</th>
-            <th scope="col">ernstig</th>
-            <th scope="col">zeer ernstig</th>
-            <th scope="col">lockdown</th>
+            <th scope="col"><a href="https://coronadashboard.rijksoverheid.nl/veiligheidsregio">Risiconiveau</a> waakzaam</th>
+            <th scope="col"><a href="https://coronadashboard.rijksoverheid.nl/veiligheidsregio">Risiconiveau</a> zorgelijk</th>
+            <th scope="col"><a href="https://coronadashboard.rijksoverheid.nl/veiligheidsregio">Risiconiveau</a> ernstig</th>
+            <th scope="col"><a href="https://coronadashboard.rijksoverheid.nl/veiligheidsregio">Risiconiveau</a> zeer ernstig</th>
+            <th scope="col"><a href="https://coronadashboard.rijksoverheid.nl/veiligheidsregio">Risiconiveau</a> lockdown</th>
         </tr>
     </thead>
     <tbody>

@@ -33,14 +33,22 @@
     padding: 0.8rem;
   }
 
-  th, td {
-    border: 1px solid #999;
+  th[scope="col"] {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
   }
 
-  td:first-child {
-    font-weight: 700;
+  th[scope="row"] {
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
   }
 
-  tr:nth-child(even) {
-    background-color: #f2f2f2;
+  tbody tr:nth-child(odd) td,
+  tbody tr:nth-child(odd) th {
+    background-color: rgba(210, 210, 210, 0.3);
+  }
+
+  td:last-child {
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
   }
