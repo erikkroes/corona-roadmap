@@ -41,28 +41,20 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Blijf thuis</td>
         </tr>
         <tr>
-            <th scope="row">Bijeenkomsten</th>
-            <td>Geen beperkingen</td>
+            <th scope="row">Samenenkomsten</th>
+            <td>Reservering verplicht bij evenementen</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 60 binnen Maximaal 80 buiten</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 30 binnen Maximaal 40 buiten</td>
-            <td>Bijeenkomsten beperkt toegestaan met: Maximaal 30 binnen Maximaal 4 buiten</td>
+            <td>Bijeenkomsten beperkt toegestaan met reservering en vaste zitplaats: Geen evenementen. Maximaal 4 buiten</td>
             <td>Geen bijeenkomsten</td>
         </tr>
         <tr>
-            <th scope="row">Evenementen</th>
-            <td>Reservering verplicht</td>
-            <td>Met reservering en een vaste zitplaats: Maximaal 60 binnen Maximaal 80 buiten</td>
-            <td>Met reservering en een vaste zitplaats: Maximaal 30 binnen Maximaal 40 buiten</td>
-            <td>Geen evenementen</td>
-            <td>Geen evenementen</td>
-        </tr>
-        <tr>
-            <th scope="row">Huwelijken</th>
+            <th scope="row">Huwelijksvoltrekkingen</th>
             <td>Geen beperkingen</td>
-            <td>Maximaal 50</td>
+            <td>Maximaal 60 binnen. Maximaal 80 buiten</td>
             <td>Maximaal 30</td>
-            <td>Maximaal 4</td>
-            <td>Maximaal 4</td>
+            <td>Maximaal 30</td>
+            <td>Maximaal 30</td>
         </tr>
         <tr>
             <th scope="row">Verpleeghuizen</th>
