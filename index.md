@@ -30,41 +30,40 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
         <tr>
             <th scope="row">Er op uit</th>
             <td colspan="2">Geen beperkingen</td>
-            <td colspan="3">Maximaal 4</td>
+            <td colspan="2">Maximaal 4 inclusief jezelf</td>
+            <td>Maximaal 2 inclusief jezelf</td>
         </tr>
         <tr>
             <th scope="row">Thuisbezoek familie en vrienden</th>
             <td>Geen beperkingen</td>
             <td>Maximaal 6 van een ander huishouden</td>
             <td>Maximaal 3 van een ander huishouden</td>
-            <td>Maximaal 3 van een ander huishouden Maximaal 1 bezoek per dag</td>
+            <td>Maximaal 3 van een ander huishouden. Maximaal 1 bezoek per dag</td>
             <td>Blijf thuis</td>
         </tr>
         <tr>
-            <th scope="row">Samenenkomsten</th>
+            <th scope="row">Samenkomsten</th>
             <td>Reservering verplicht bij evenementen</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 60 binnen Maximaal 80 buiten</td>
             <td>Met reservering en een vaste zitplaats: Maximaal 30 binnen Maximaal 40 buiten</td>
-            <td>Bijeenkomsten beperkt toegestaan met reservering en vaste zitplaats: Geen evenementen. Maximaal 4 buiten</td>
+            <td>Bijeenkomsten beperkt toegestaan met reservering en vaste zitplaats: Geen evenementen. Maximaal 30 binnen</td>
             <td>Geen bijeenkomsten</td>
         </tr>
         <tr>
             <th scope="row">Huwelijksvoltrekkingen</th>
             <td>Geen beperkingen</td>
             <td>Maximaal 60 binnen. Maximaal 80 buiten</td>
-            <td>Maximaal 30</td>
-            <td>Maximaal 30</td>
-            <td>Maximaal 30</td>
+            <td colspan="3">Maximaal 30</td>            
         </tr>
         <tr>
             <th scope="row">Verpleeghuizen</th>
-            <td colspan="5"><p>Maatregelen afhankelijk van de situatie op de locatie. Bijvoorbeeld reservering van bezoek, een gezondheidscheck en gebruik van neus- en mondmaskers en het beperken van bezoek.</td>
+            <td colspan="5"><p>Maatregelen afhankelijk van de situatie op de locatie. Bijvoorbeeld reservering van bezoek, een gezondheidscheck, gebruik van mondneusmaskers, en het beperken van bezoek.</td>
         </tr>
         <tr>
             <th scope="row">Horeca</th>
             <td>Reservering, vaste zitplaats en check- gesprek verplicht</td>
-            <td>Horeca open tot 01:00 Laatste inloop 00:00</td>
-            <td>Horeca open tot 22:00 Laatste inloop 21:00</td>
+            <td>Horeca open tot 01:00. Laatste inloop 00:00</td>
+            <td>Horeca open tot 22:00. Laatste inloop 21:00</td>
             <td>Horeca gesloten</td>
             <td>Horeca gesloten</td>
         </tr>
@@ -73,8 +72,8 @@ Meer informatie vind je op rijksoverheid.nl/coronavirus
             <td>Geen beperkingen</td>
             <td>Geen beperkingen</td>
             <td>Geen publiek bij (amateur)-wedstrijden</td>
-            <td>Geen sportwedstrijden bij volwassenen en jeugd. Bij trainingen maximaal 4 personen op 1,5 meter afstand. Uitzondering voor jongeren tot en met 17 jaar</td>
-            <td>Verbod op sport- activiteiten binnen</td>
+            <td>Geen sportwedstrijden. Bij trainingen maximaal 4 personen op 1,5 meter afstand (uitzondering geldt voor jongeren tot en met 17 jaar). Sluiting kleedkamers en sportkantines</td>
+            <td>Verbod op sportactiviteiten binnen. Buiten maximaal 2 personen op 1,5 meter afstand. Sluiting kleedkamers en sportkantines</td>
         </tr>
         <tr>
             <th scope="row">Binnenlandse reizen</th>
